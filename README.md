@@ -4,7 +4,9 @@ Here is where people can learn how to engage with Barter DAO, currently under de
 
 Telegram: [t.me/barter_dao](https://t.me/barter_dao)
 
-Reddit: [reddit.com/r/barterdao](https://reddit.com/r/barterdao)
+Reddit: [reddit.com/r/barterdao](https://reddit.com/r/barterdao) 
+
+Discord: [discord.com/channels/915830843254124575](https://discord.com/channels/915830843254124575)
 
 ### Markdown
 
