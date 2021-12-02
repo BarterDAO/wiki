@@ -3,6 +3,7 @@
 Here is where people can learn how to engage with Barter DAO, currently under development.
 
 Telegram: [t.me/barter_dao](https://t.me/barter_dao)
+
 Reddit: [reddit.com/r/barterdao](https://reddit.com/r/barterdao)
 
 ### Markdown
