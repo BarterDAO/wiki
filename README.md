@@ -1,8 +1,9 @@
-## Welcome to GitHub Pages
+## Welcome to Barter DAO Wiki
 
-You can use the [editor on GitHub](https://github.com/BarterDAO/wiki/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+Here is where people can learn how to engage with Barter DAO, currently under development.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Telegram: [t.me/barter_dao](https://t.me/barter_dao)
+Reddit: [reddit.com/r/barterdao](https://reddit.com/r/barterdao)
 
 ### Markdown
 
