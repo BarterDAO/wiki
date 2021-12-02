@@ -6,7 +6,7 @@ Telegram: [t.me/barter_dao](https://t.me/barter_dao)
 
 Reddit: [reddit.com/r/barterdao](https://reddit.com/r/barterdao) 
 
-Discord: [discord.com/channels/915830843254124575](https://discord.com/channels/915830843254124575)
+Discord: [discord.gg/kfT8wHMBrV](https://discord.gg/kfT8wHMBrV)
 
 ### Markdown
 
